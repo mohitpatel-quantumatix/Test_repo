@@ -1,0 +1,4 @@
+Nitesh has a role of Team lead
+and rest of team members are SDE1 
+
+so role's are assigned now everone update your work on git 
