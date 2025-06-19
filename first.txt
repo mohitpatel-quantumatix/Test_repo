@@ -3,4 +3,5 @@ hello it's my first repo for test perpose
 hello gyus this is our repo where we try to understand how git work and how we create new branch then how merge them and how to
 manage conflicts
 
-anyone intrested for this prectice  
+anyone intrested for this prectice.
+yes we are interested  
